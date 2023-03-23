@@ -34,5 +34,5 @@ The outliers from the dataset are being removed to ensure the uniformity in the 
 5.	Text Sequence Conversion : In this step, the text sequence is converted into numerical data format to make the data ready for the model to take as input. tokenizer is a tool that helps to convert text data into numerical values. It essentially splits the text into individual words or tokens and then assigns a unique numerical value to each of them. The tokenizer can be trained on a corpus of text to learn the vocabulary and assign numerical values to each token.
 
 
-Conclusion
+## Conclusion
 This project demonstrates the feasibility of using machine learning to automate the grading of short answer questions. By leveraging the power of classification algorithms and feature engineering, we can develop accurate and efficient grading systems that can save time and resources for educators and educational institutions.
